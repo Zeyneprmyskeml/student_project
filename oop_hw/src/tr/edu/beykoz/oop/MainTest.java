@@ -1,3 +1,5 @@
+package tr.edu.beykoz.oop;  // her dosyanın en üstünde
+
 public class MainTest {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package tr.edu.beykoz.oop;  // her dosyanın en üstünde
+
 public class Student {
 
     private String name;
